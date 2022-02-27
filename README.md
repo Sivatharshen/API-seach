@@ -1,4 +1,4 @@
-# API-seach
+# API to-search
 # Description -
  The rest api searches the name of a particular user and returns the details if found.It has been done using Spring framework.
 # Steps to run the project 
